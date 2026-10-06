@@ -10,7 +10,7 @@ The project was built to strengthen practical frontend engineering skills includ
 
 ## 🚀 Live Demo
 
-**Live Application:** [Add your deployed URL here]
+**Live Application:** https://cineflix.appwrite.network/
 
 **Repository:** https://github.com/nitishchandran/cineflix
 
